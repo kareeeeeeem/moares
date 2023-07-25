@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627265420736",
+    "project_id": "mwareth-cfc60",
+    "storage_bucket": "mwareth-cfc60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627265420736:android:af5fe6d8ecb83fbe199c25",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627265420736-6qpjdq5c70jjlhm2f9pbiqmm6qh0866e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA8PMPOTSbmHl3lAb8VGwTL4xnYjGJ2rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627265420736-6qpjdq5c70jjlhm2f9pbiqmm6qh0866e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
