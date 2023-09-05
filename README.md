@@ -53,4 +53,39 @@ Slide 8: Conclusion
 Slide 9: Questions and Answers
 - Allocate time for the audience to ask questions regarding the application, its features, and its development process.
 
-Note: This is just a sample presentation outline, and you can customize it further based on your requirements and preferences.                                                                    
+# graduation_project
+
+You can see the screenshots of the application from [screenshots](#screenshots) part.
+## Getting Started
+
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+![](screenshots/screen(1).jpeg)
+![](screenshots/screen(2).jpeg)
+![](screenshots/screen(3).jpeg)
+![](screenshots/screen(4).jpeg)
+![](screenshots/screen(5).jpeg)
+![](screenshots/screen(6).jpeg)
+![](screenshots/screen(7).jpeg)
+![](screenshots/screen(8).jpeg)
+![](screenshots/screen(9).jpeg)
+![](screenshots/screen(10).jpeg)
+![](screenshots/screen(11).jpeg)
+![](screenshots/screen(12).jpeg)
+![](screenshots/screen(13).jpeg)
+![](screenshots/screen(14).jpeg)
+![](screenshots/screen(15).jpeg)
+![](screenshots/screen(16).jpeg)
+![](screenshots/screen(17).jpeg)
+![](screenshots/screen(18).jpeg)
+![](screenshots/screen(19).jpeg)
