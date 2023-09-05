@@ -53,12 +53,9 @@ Slide 8: Conclusion
 Slide 9: Questions and Answers
 - Allocate time for the audience to ask questions regarding the application, its features, and its development process.
 
-# graduation_project
+
 
 You can see the screenshots of the application from [screenshots](#screenshots) part.
-## Getting Started
-
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
