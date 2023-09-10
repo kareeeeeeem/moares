@@ -58,9 +58,6 @@ Slide 9: Questions and Answers
 You can see the screenshots of the application from [screenshots](#screenshots) part.
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
@@ -78,10 +75,3 @@ samples, guidance on mobile development, and a full API reference.
 ![](screenshots/screen(9).jpeg)
 ![](screenshots/screen(10).jpeg)
 ![](screenshots/screen(11).jpeg)
-![](screenshots/screen(12).jpeg)
-![](screenshots/screen(13).jpeg)
-![](screenshots/screen(14).jpeg)
-![](screenshots/screen(15).jpeg)
-![](screenshots/screen(16).jpeg)
-![](screenshots/screen(17).jpeg)
-![](screenshots/screen(18).jpeg)
