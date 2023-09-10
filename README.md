@@ -64,13 +64,13 @@ samples, guidance on mobile development, and a full API reference.
 
 ## screenshots
 
-![](screenshots/screen(1).jpeg)
-![](screenshots/screen(2).jpeg)
-![](screenshots/screen(3).jpeg)
-![](screenshots/screen(4).jpeg)
-![](screenshots/screen(5).jpeg)
-![](screenshots/screen(6).jpeg)
-![](screenshots/screen(7).jpeg)
+![](screenshots/screen(1).png)
+![](screenshots/screen(2).png)
+![](screenshots/screen(3).png)
+![](screenshots/screen(4).png)
+![](screenshots/screen(5).png)
+![](screenshots/screen(6).png)
+![](screenshots/screen(7).png)
 ![](screenshots/screen(8).jpeg)
 ![](screenshots/screen(9).jpeg)
 ![](screenshots/screen(10).jpeg)
