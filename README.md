@@ -75,5 +75,6 @@ samples, guidance on mobile development, and a full API reference.
 ![](screenshots/screen(9).png)
 ![](screenshots/screen(10).png)
 ![](screenshots/screen(11).png)
-![](screenshots/screen(12).jpeg)
+![](screenshots/screen(12)
+jpeg)
 
